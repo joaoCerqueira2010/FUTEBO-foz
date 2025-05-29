@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    background-color: rgb(97, 96, 128);
+}
+
+main{
+color: aliceblue;
+     background-color: rgb(101, 114, 173);
+}
+
+header{
+    background-color: rgb(105, 104, 104);
+    height: 320px;
+}
+
+footer{
+    background-color: rgb(75, 73, 73);
+    height: 320px;
+}
+
+.logo{
+    height: 300px;
+}
+
+
